@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>ascendancy-dev</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ice_dragons_1,back_blank">Blade Statue</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_1,back_blank">Blade Statue</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_1,back_blank">Blade Statue</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_1,back_blank">Blade Statue</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_2,back_egg_2">Blue Drake</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_2,back_egg_2">Blue Drake</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_2,back_egg_2">Blue Drake</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_2,back_egg_2">Blue Drake</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_3,back_egg_egg_4">Fjolnir</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_4,back_egg_egg_2">Frost Elder</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_4,back_egg_egg_2">Frost Elder</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_4,back_egg_egg_2">Frost Elder</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_4,back_egg_egg_2">Frost Elder</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_5,back_egg_egg_x">Frozen Farmland</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_5,back_egg_egg_x">Frozen Farmland</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_5,back_egg_egg_x">Frozen Farmland</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_5,back_egg_egg_x">Frozen Farmland</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_6,back_egg_egg_3">Ice Ancient</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_6,back_egg_egg_3">Ice Ancient</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_6,back_egg_egg_3">Ice Ancient</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_7,back_blank">Ice Hulk</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_7,back_blank">Ice Hulk</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_7,back_blank">Ice Hulk</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_7,back_blank">Ice Hulk</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_8,back_egg_1">Icemage</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_8,back_egg_1">Icemage</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_8,back_egg_1">Icemage</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_8,back_egg_1">Icemage</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_9,back_egg_2">Kidnap</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_9,back_egg_2">Kidnap</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_9,back_egg_2">Kidnap</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_9,back_egg_2">Kidnap</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_13,back_egg_2">Unnatural Hail</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_13,back_egg_2">Unnatural Hail</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_13,back_egg_2">Unnatural Hail</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_13,back_egg_2">Unnatural Hail</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+		<card><name id="ice_dragons_11,back_blank">Roost</name><set>Aeon Rising</set></card>
+	</superzone>
+</deck>

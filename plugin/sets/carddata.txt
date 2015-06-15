@@ -1,0 +1,25 @@
+Name	Set	ImageFile	Faction	Type
+Mine	Aeon Rising	gearpunk_1,back_ore	Gearpunk	Basic Structure
+Gearpunk Manufactory	Aeon Rising	gearpunk_2,back_ore_1	Gearpunk	Structure
+Starforge Bomb Engine	Aeon Rising	gearpunk_3,back_uranium_uranium_3	Gearpunk	Structure
+Starforge City Module	Aeon Rising	gearpunk_4,back_uranium_uranium_3	Gearpunk	Structure
+Starforge Command Pod	Aeon Rising	gearpunk_5,back_uranium_uranium_3	Gearpunk	Structure
+Uranium Purifier	Aeon Rising	gearpunk_6,back_ore_2	Gearpunk	Structure
+Arachnolossus	Aeon Rising	gearpunk_7,back_ore_uranium_1	Gearpunk	Troop
+Axe-suit	Aeon Rising	gearpunk_8,back_ore_1	Gearpunk	Troop
+Gyropike	Aeon Rising	gearpunk_9,back_ore_uranium_1	Gearpunk	Troop
+Igor	Aeon Rising	gearpunk_10,back_ore_ore_2	Gearpunk	Troop
+Saboteur	Aeon Rising	gearpunk_11,back_ore_uranium_1	Gearpunk	Troop
+Shield-suit	Aeon Rising	gearpunk_12,back_ore_1	Gearpunk	Troop
+Visionary Engineer	Aeon Rising	gearpunk_13,back_ore_2	Gearpunk	Troop
+Unnatural Hail	Aeon Rising	ice_dragons_13,back_egg_2	Ice Dragons	Action
+Roost	Aeon Rising	ice_dragons_11,back_blank	Ice Dragons	Basic Structure
+Frozen Farmland	Aeon Rising	ice_dragons_5,back_egg_egg_x	Ice Dragons	Strategy
+Kidnap	Aeon Rising	ice_dragons_9,back_egg_2	Ice Dragons	Strategy
+Blade Statue	Aeon Rising	ice_dragons_1,back_blank	Ice Dragons	Troop
+Blue Drake	Aeon Rising	ice_dragons_2,back_egg_2	Ice Dragons	Troop
+Fjolnir	Aeon Rising	ice_dragons_3,back_egg_egg_4	Ice Dragons	Troop
+Frost Elder	Aeon Rising	ice_dragons_4,back_egg_egg_2	Ice Dragons	Troop
+Ice Ancient	Aeon Rising	ice_dragons_6,back_egg_egg_3	Ice Dragons	Troop
+Ice Hulk	Aeon Rising	ice_dragons_7,back_blank	Ice Dragons	Troop
+Icemage	Aeon Rising	ice_dragons_8,back_egg_1	Ice Dragons	Troop
