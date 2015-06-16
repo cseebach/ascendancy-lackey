@@ -1,6 +1,6 @@
 <deck version="0.8">
 	<meta>
-		<game>ascendancy-dev</game>
+		<game>ascendancy</game>
 	</meta>
 	<superzone name="Deck">
 		<card><name id="gearpunk_7,back_ore_uranium_1">Arachnolossus</name><set>Aeon Rising</set></card>
@@ -20,30 +20,6 @@
 		<card><name id="gearpunk_9,back_ore_uranium_1">Gyropike</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_9,back_ore_uranium_1">Gyropike</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_10,back_ore_ore_2">Igor</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
-		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_11,back_ore_uranium_1">Saboteur</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_11,back_ore_uranium_1">Saboteur</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_11,back_ore_uranium_1">Saboteur</name><set>Aeon Rising</set></card>
@@ -59,9 +35,33 @@
 		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_6,back_ore_2">Uranium Purifier</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_13,back_ore_2">Visionary Engineer</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_13,back_ore_2">Visionary Engineer</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_13,back_ore_2">Visionary Engineer</name><set>Aeon Rising</set></card>
 		<card><name id="gearpunk_13,back_ore_2">Visionary Engineer</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
+		<card><name id="gearpunk_1,back_ore">Mine</name><set>Aeon Rising</set></card>
 	</superzone>
 </deck>
