@@ -1,9 +1,9 @@
 ascendancy	06-15-15
-plugins/ascendancy/plugininfo.txt	http://cseebach.github.io/ascendancy-lackey/plugin/plugininfo.txt?dl=1	195188
-plugins/ascendancy/decks/Fjolnir.dek	http://cseebach.github.io/ascendancy-lackey/plugin/decks/Fjolnir.dek?dl=1	480221
-plugins/ascendancy/decks/Igor.dek	http://cseebach.github.io/ascendancy-lackey/plugin/decks/Igor.dek?dl=1	476299
-plugins/ascendancy/sets/carddata.txt	http://cseebach.github.io/ascendancy-lackey/plugin/sets/carddata.txt?dl=1	155938
-plugins/ascendancy/sets/setimages/general/spawned.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/spawned.jpg?dl=1	1350395
-plugins/ascendancy/sets/setimages/general/cardback.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/cardback.jpg?dl=1	1350395
+plugins/ascendancy/plugininfo.txt	http://cseebach.github.io/ascendancy-lackey/plugin/plugininfo.txt	1
+plugins/ascendancy/decks/Fjolnir.dek	http://cseebach.github.io/ascendancy-lackey/plugin/decks/Fjolnir.dek	480221
+plugins/ascendancy/decks/Igor.dek	http://cseebach.github.io/ascendancy-lackey/plugin/decks/Igor.dek	476299
+plugins/ascendancy/sets/carddata.txt	http://cseebach.github.io/ascendancy-lackey/plugin/sets/carddata.txt	155938
+plugins/ascendancy/sets/setimages/general/spawned.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/spawned.jpg	1350395
+plugins/ascendancy/sets/setimages/general/cardback.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/cardback.jpg	1350395
 CardGeneralURLs:
 http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/

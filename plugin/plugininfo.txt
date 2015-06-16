@@ -12,15 +12,6 @@
         <shuffle>yes</shuffle>
     </deckzone>
     
-    <gamezone>
-        <label>Targets</label>
-    </gamezone>
-    
-    <deckzone>
-        <label>Opening Hand</label>
-        <gamezonetoloadto>Hand</gamezonetoloadto>
-    </deckzone>
-    
     <!-- Game Zones -->
 
     <gamezone>
@@ -29,13 +20,19 @@
     </gamezone>
     
     <gamezone>
-        <label>Targets</label>
+        <label>Deck</label>
+    </gamezone>
+    
+    <gamezone>
+        <label>Discard</label>
         <visibletoowner>yes</visibletoowner>
         <visibletoothers>yes</visibletoothers>
     </gamezone>
     
     <gamezone>
-        <label>Deck</label>
+        <label>Removed</label>
+        <visibletoowner>yes</visibletoowner>
+        <visibletoothers>yes</visibletoothers>
     </gamezone>
     
     <!-- Turn Phases -->
@@ -48,7 +45,7 @@
     <!-- General Functions -->
     
     <generalfunction>
-        <label>Ready All</label>
+        <label>Reset All</label>
         <kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
         <includeasbutton>yes</includeasbutton>
     </generalfunction>
@@ -62,13 +59,13 @@
     <!-- Card Functions -->
     
     <cardfunction>
-        <label>Untap</label>
+        <label>Reset</label>
         <kind>MAKERIGHT0DEGREES</kind>
         <includeasbutton>yes</includeasbutton>
     </cardfunction>
     
     <cardfunction>
-        <label>Tap</label>
+        <label>Use</label>
         <kind>MAKERIGHT90DEGREES</kind>
         <includeasbutton>yes</includeasbutton>
     </cardfunction>
@@ -78,7 +75,7 @@
     </cardfunction>
     
     <cardfunction>
-        <label>Doesn't Turn</label><kind>TOGGLETURNALLIMMUNITY</kind>
+        <label>Doesn't Reset</label><kind>TOGGLETURNALLIMMUNITY</kind>
     </cardfunction>
     
     <cardfunction>
@@ -89,14 +86,20 @@
     </cardfunction>
     
     <cardfunction>
-        <label>Freeze-1</label><kind>ADDCOUNTER</kind>
+        <label>Freeze-1</label><kind>REMOVECOUNTER</kind>
         <color>blue</color>
         <textoverimagecolor>FFFFBB</textoverimagecolor>
         <PositionX>.75</PositionX><PositionY>.04</PositionY>
     </cardfunction>
     
+    <cardfunction>
+        <label>Edit Note</label><kind>EDITNOTE</kind>
+        <PositionX>.4</PositionX><PositionY>.95</PositionY>
+    </cardfunction>
+    
     <!-- Extras -->
     
     <definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
+    <definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
   
 </plugin>
