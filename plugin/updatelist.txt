@@ -5,5 +5,31 @@ plugins/ascendancy/decks/Igor_Standard.txt	http://cseebach.github.io/ascendancy-
 plugins/ascendancy/sets/carddata.txt	http://cseebach.github.io/ascendancy-lackey/plugin/sets/carddata.txt	217433
 plugins/ascendancy/sets/setimages/general/spawned.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/spawned.jpg	3726
 plugins/ascendancy/sets/setimages/general/cardback.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/cardback.jpg	3726
-CardGeneralURLs:
-http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/
+
+CardImageUrls:
+general/back_blank.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_blank.jpg
+general/back_egg_1.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_egg_1.jpg
+general/back_egg_2.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_egg_2.jpg
+general/back_egg_egg_2.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_egg_egg_2.jpg
+general/back_egg_egg_3.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_egg_egg_3.jpg
+general/back_egg_egg_4.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_egg_egg_4.jpg
+general/back_egg_egg_x.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_egg_egg_x.jpg
+general/back_ore.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_ore.jpg
+general/back_ore_1.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_ore_1.jpg
+general/back_ore_2.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_ore_2.jpg
+general/back_ore_ore_2.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_ore_ore_2.jpg
+general/back_ore_uranium_1.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_ore_uranium_1.jpg
+general/back_uranium_uranium_3.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/general/back_uranium_uranium_3.jpg
+aeon_rising/ice_dragons_1.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_1.jpg
+aeon_rising/ice_dragons_2.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_2.jpg
+aeon_rising/ice_dragons_3.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_3.jpg
+aeon_rising/ice_dragons_4.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_4.jpg
+aeon_rising/ice_dragons_5.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_5.jpg
+aeon_rising/ice_dragons_6.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_6.jpg
+aeon_rising/ice_dragons_7.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_7.jpg
+aeon_rising/ice_dragons_8.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_8.jpg
+aeon_rising/ice_dragons_9.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_9.jpg
+aeon_rising/ice_dragons_10.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_10.jpg
+aeon_rising/ice_dragons_11.jpg	http://cseebach.github.io/ascendancy-lackey/plugin/sets/setimages/aeon_rising/ice_dragons_11.jpg
+
+
