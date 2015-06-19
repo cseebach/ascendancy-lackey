@@ -1,25 +1,25 @@
 Name	Set	ImageFile	Faction	Type	Subset Number	Front	Back
-Mine	Aeon Rising	gearpunk_1,back_ore	Gearpunk	Basic Structure	1	gearpunk_1	back_ore
-Uranium Purifier	Aeon Rising	gearpunk_2,back_ore_2	Gearpunk	Basic Structure	2	gearpunk_2	back_ore_2
-Gearpunk Factory	Aeon Rising	gearpunk_3,back_ore_1	Gearpunk	Structure	3	gearpunk_3	back_ore_1
-Bomb Engine	Aeon Rising	gearpunk_4,back_uranium_uranium_3	Gearpunk	Structure	4	gearpunk_4	back_uranium_uranium_3
-City Module	Aeon Rising	gearpunk_5,back_uranium_uranium_3	Gearpunk	Structure	5	gearpunk_5	back_uranium_uranium_3
-Command Pod	Aeon Rising	gearpunk_6,back_uranium_uranium_3	Gearpunk	Structure	6	gearpunk_6	back_uranium_uranium_3
-Arachnolossus	Aeon Rising	gearpunk_7,back_ore_uranium_1	Gearpunk	Troop	7	gearpunk_7	back_ore_uranium_1
-Axe Suit	Aeon Rising	gearpunk_8,back_ore_1	Gearpunk	Troop	8	gearpunk_8	back_ore_1
-Gyropike	Aeon Rising	gearpunk_9,back_ore_uranium_1	Gearpunk	Troop	9	gearpunk_9	back_ore_uranium_1
-Igor	Aeon Rising	gearpunk_10,back_ore_ore_2	Gearpunk	Troop	10	gearpunk_10	back_ore_ore_2
-Jetpack Nuke Jockey	Aeon Rising	gearpunk_11,back_ore_uranium_1	Gearpunk	Troop	11	gearpunk_11	back_ore_uranium_1
-Shield Suit	Aeon Rising	gearpunk_12,back_ore_1	Gearpunk	Troop	12	gearpunk_12	back_ore_1
-Visionary Engineer	Aeon Rising	gearpunk_13,back_ore_2	Gearpunk	Troop	13	gearpunk_13	back_ore_2
-Kidnap	Aeon Rising	ice_dragons_1,back_egg_2	Ice Dragons	Action	1	ice_dragons_1	back_egg_2
-Unnatural Hail	Aeon Rising	ice_dragons_2,back_egg_2	Ice Dragons	Action	2	ice_dragons_2	back_egg_2
-Roost	Aeon Rising	ice_dragons_3,back_blank	Ice Dragons	Basic Structure	3	ice_dragons_3	back_blank
-Frozen Farmland	Aeon Rising	ice_dragons_4,back_egg_egg_x	Ice Dragons	Strategy	4	ice_dragons_4	back_egg_egg_x
-Blade Statue	Aeon Rising	ice_dragons_5,back_blank	Ice Dragons	Troop	5	ice_dragons_5	back_blank
-Blue Drake	Aeon Rising	ice_dragons_6,back_egg_2	Ice Dragons	Troop	6	ice_dragons_6	back_egg_2
-Fjolnir	Aeon Rising	ice_dragons_7,back_egg_egg_4	Ice Dragons	Troop	7	ice_dragons_7	back_egg_egg_4
-Frost Elder	Aeon Rising	ice_dragons_8,back_egg_egg_2	Ice Dragons	Troop	8	ice_dragons_8	back_egg_egg_2
-Ice Ancient	Aeon Rising	ice_dragons_9,back_egg_egg_3	Ice Dragons	Troop	9	ice_dragons_9	back_egg_egg_3
-Ice Hulk	Aeon Rising	ice_dragons_10,back_blank	Ice Dragons	Troop	10	ice_dragons_10	back_blank
-Icemage	Aeon Rising	ice_dragons_11,back_egg_1	Ice Dragons	Troop	11	ice_dragons_11	back_egg_1
+Mine	aeon_rising	gearpunk_1,back_ore	Gearpunk	Basic Structure	1	gearpunk_1	back_ore
+Uranium Purifier	aeon_rising	gearpunk_2,back_ore_2	Gearpunk	Basic Structure	2	gearpunk_2	back_ore_2
+Gearpunk Factory	aeon_rising	gearpunk_3,back_ore_1	Gearpunk	Structure	3	gearpunk_3	back_ore_1
+Bomb Engine	aeon_rising	gearpunk_4,back_uranium_uranium_3	Gearpunk	Structure	4	gearpunk_4	back_uranium_uranium_3
+City Module	aeon_rising	gearpunk_5,back_uranium_uranium_3	Gearpunk	Structure	5	gearpunk_5	back_uranium_uranium_3
+Command Pod	aeon_rising	gearpunk_6,back_uranium_uranium_3	Gearpunk	Structure	6	gearpunk_6	back_uranium_uranium_3
+Arachnolossus	aeon_rising	gearpunk_7,back_ore_uranium_1	Gearpunk	Troop	7	gearpunk_7	back_ore_uranium_1
+Axe Suit	aeon_rising	gearpunk_8,back_ore_1	Gearpunk	Troop	8	gearpunk_8	back_ore_1
+Gyropike	aeon_rising	gearpunk_9,back_ore_uranium_1	Gearpunk	Troop	9	gearpunk_9	back_ore_uranium_1
+Igor	aeon_rising	gearpunk_10,back_ore_ore_2	Gearpunk	Troop	10	gearpunk_10	back_ore_ore_2
+Jetpack Nuke Jockey	aeon_rising	gearpunk_11,back_ore_uranium_1	Gearpunk	Troop	11	gearpunk_11	back_ore_uranium_1
+Shield Suit	aeon_rising	gearpunk_12,back_ore_1	Gearpunk	Troop	12	gearpunk_12	back_ore_1
+Visionary Engineer	aeon_rising	gearpunk_13,back_ore_2	Gearpunk	Troop	13	gearpunk_13	back_ore_2
+Kidnap	aeon_rising	ice_dragons_1,back_egg_2	Ice Dragons	Action	1	ice_dragons_1	back_egg_2
+Unnatural Hail	aeon_rising	ice_dragons_2,back_egg_2	Ice Dragons	Action	2	ice_dragons_2	back_egg_2
+Roost	aeon_rising	ice_dragons_3,back_blank	Ice Dragons	Basic Structure	3	ice_dragons_3	back_blank
+Frozen Farmland	aeon_rising	ice_dragons_4,back_egg_egg_x	Ice Dragons	Strategy	4	ice_dragons_4	back_egg_egg_x
+Blade Statue	aeon_rising	ice_dragons_5,back_blank	Ice Dragons	Troop	5	ice_dragons_5	back_blank
+Blue Drake	aeon_rising	ice_dragons_6,back_egg_2	Ice Dragons	Troop	6	ice_dragons_6	back_egg_2
+Fjolnir	aeon_rising	ice_dragons_7,back_egg_egg_4	Ice Dragons	Troop	7	ice_dragons_7	back_egg_egg_4
+Frost Elder	aeon_rising	ice_dragons_8,back_egg_egg_2	Ice Dragons	Troop	8	ice_dragons_8	back_egg_egg_2
+Ice Ancient	aeon_rising	ice_dragons_9,back_egg_egg_3	Ice Dragons	Troop	9	ice_dragons_9	back_egg_egg_3
+Ice Hulk	aeon_rising	ice_dragons_10,back_blank	Ice Dragons	Troop	10	ice_dragons_10	back_blank
+Icemage	aeon_rising	ice_dragons_11,back_egg_1	Ice Dragons	Troop	11	ice_dragons_11	back_egg_1

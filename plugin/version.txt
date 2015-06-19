@@ -1,5 +1,5 @@
 <version>
-    <lastupdateYYMMDD>160616</lastupdateYYMMDD>
+    <lastupdateYYMMDD>180616</lastupdateYYMMDD>
     <quality>MEDIUM</quality>
     <versionurl>http://cseebach.github.io/ascendancy-lackey/plugin/version.txt</versionurl>
     <updateurl>http://cseebach.github.io/ascendancy-lackey/plugin/updatelist.txt</updateurl>
