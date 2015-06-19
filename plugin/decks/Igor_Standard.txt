@@ -1,0 +1,13 @@
+4	Arachnolossus
+4	Gyropike
+1	Igor
+8	Uranium Purifier
+4	Visionary Engineer
+20	Mine
+1	Bomb Engine
+1	City Module
+1	Command Pod
+4	Axe Suit
+4	Gearpunk Factory
+4	Jetpack Nuke Jockey
+4	Shield Suit

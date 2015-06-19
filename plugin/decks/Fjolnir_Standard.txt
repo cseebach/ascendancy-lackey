@@ -1,0 +1,11 @@
+4	Blade Statue
+4	Blue Drake
+1	Fjolnir
+4	Frost Elder
+4	Frozen Farmland
+3	Ice Ancient
+4	Ice Hulk
+8	Icemage
+4	Kidnap
+4	Unnatural Hail
+20	Roost
